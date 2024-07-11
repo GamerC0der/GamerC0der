@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @GamerC0der
-- 👀 I’m interested in Coding, Gaming, and more!
-- 🌱 I’m currently learning HTML Css, Js, Svelte, and Roblox Studio Lua
-- 😄 Pronouns: He, Him, and GamerC0der
+- 👀 I’m interested in Coding, Gaming, AI, and more!
+- 🌱 I’m currently learning HTML CSS, JS, Python, Svelte, and Luau (for Roblox Studio). 
